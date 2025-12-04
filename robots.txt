@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://baojudezeze.github.io/al-folio/sitemap.xml
+Sitemap: https://baojudezeze.github.io/sitemap.xml
