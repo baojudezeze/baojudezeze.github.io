@@ -2,19 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle:
-  Affiliation
-  PhD Student, Department of Electrical Engineering
-  City University of Hong Kong
-
-  Address
-  City University of Hong Kong
-  83 Tat Chee Avenue
-  Sham Shui Po District, Kowloon, Hong Kong
-
-  Contact
-  Email zeyujiang4-c@my.cityu.edu.hk
-  Phone +852 9354 4671
+subtitle: 
+  PhD Student (Year 1), Department of Electrical Engineering, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. 
 
 profile:
   align: right
