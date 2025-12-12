@@ -30,7 +30,7 @@ latest_posts:
 
 
 I am a first-year Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong (CityUHK).  
-My research focuses on **computer vision** and **image synthesis**, with particular interests in:
+My recent research focuses on **computer vision** and **image synthesis**, with particular interests in:
 
 - controllable image synthesis  
 - diffusion and DiT-based generative architectures  
@@ -40,5 +40,6 @@ My research focuses on **computer vision** and **image synthesis**, with particu
 I am broadly interested in how modern visual generative models learn structured latent representations and how these representations can be adapted to improve reliability, controllability, and generalization in complex image manipulation tasks. My current projects explore **orthogonal-subspace LoRA adaptation**, **multi-reference image editing**, and **experience-driven iterative generation frameworks** that integrate feedback into the synthesis process.
 
 ### Links
-- **Google Scholar:** <https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ>  
-- **GitHub:** <https://github.com/baojudezeze>
+- **[Google Scholar](<https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ> )**  
+- **[GitHub](<https://github.com/baojudezeze>)** 
+
