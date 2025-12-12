@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  PhD Student (Year 1), Department of Electrical Engineering, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. 
+  PhD Student (Year 1), <a href='https://www.ee.cityu.edu.hk/'>Department of Electrical Engineering</a>, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone +852 9354 4671</p>
-    <p>City University of Hong Kong, 83 Tat Chee Avenue, Sham Shui Po District, Kowloon</p>
+    <p>83 Tat Chee Avenue, Sham Shui Po District, Kowloon</p>
     <p>Hong Kong SAR</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
