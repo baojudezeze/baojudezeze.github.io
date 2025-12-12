@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>📧 zeyujiang4-c@my.cityu.edu.hk</p>
     <p>📞 +852 9354 4671</p>
-    <p>🏫 83 Tat Chee Avenue, Sham Shui Po District, Kowloon</p>
+    <p>🏫 83 Tat Chee Avenue, Sham Shui Po District, Kowloon,</p>
     <p>Hong Kong SAR</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
