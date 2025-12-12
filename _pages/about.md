@@ -10,8 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Phone +852 9354 4671</p>
-    <p>83 Tat Chee Avenue, Sham Shui Po District, Kowloon</p>
+    <p>📧 zeyujiang4-c@my.cityu.edu.hk</p>
+    <p>📞 +852 9354 4671</p>
+    <p>🏫 83 Tat Chee Avenue, Sham Shui Po District, Kowloon</p>
     <p>Hong Kong SAR</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
