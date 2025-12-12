@@ -40,6 +40,6 @@ My recent research focuses on **computer vision** and **image synthesis**, with 
 I am broadly interested in how modern visual generative models learn structured latent representations and how these representations can be adapted to improve reliability, controllability, and generalization in complex image manipulation tasks. My current projects explore **orthogonal-subspace LoRA adaptation**, **multi-reference image editing**, and **experience-driven iterative generation frameworks** that integrate feedback into the synthesis process.
 
 ### Links
-- **[Google Scholar](<https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ> )**  
+- **[Google Scholar](<https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ>)**  
 - **[GitHub](<https://github.com/baojudezeze>)** 
 
