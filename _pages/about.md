@@ -8,10 +8,10 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>zeyujiang4-c@my.cityu.edu.hk</p>
-    <p>+852 9354 4671</p>
+    <p>Phone +852 9354 4671</p>
     <p>83 Tat Chee Avenue, Sham Shui Po District, Kowloon,</p>
     <p>Hong Kong SAR</p>
 
