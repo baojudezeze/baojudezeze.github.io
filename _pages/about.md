@@ -29,8 +29,16 @@ latest_posts:
 ---
 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong (CityUHK).  
+My research focuses on **computer vision** and **image synthesis**, with particular interests in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- controllable image synthesis  
+- diffusion and DiT-based generative architectures  
+- multi-reference and structure-aware image editing  
+- representation learning for controllability and consistency  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am broadly interested in how modern visual generative models learn structured latent representations and how these representations can be adapted to improve reliability, controllability, and generalization in complex image manipulation tasks. My current projects explore **orthogonal-subspace LoRA adaptation**, **multi-reference image editing**, and **experience-driven iterative generation frameworks** that integrate feedback into the synthesis process.
+
+### Links
+- **Google Scholar:** <https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ>  
+- **GitHub:** <https://github.com/baojudezeze>
