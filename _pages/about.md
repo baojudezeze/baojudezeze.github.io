@@ -11,8 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zeyujiang4-c@my.cityu.edu.hk</p>
-    <p>Phone +852 9354 4671</p>
-    <p>83 Tat Chee Avenue, Sham Shui Po District, Kowloon,</p>
+    <p>83 Tat Chee Avenue, Kowloon Tong, Kowloon,</p>
     <p>Hong Kong SAR</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,18 +28,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong (CityUHK).  
+My research lies in **generative modeling and multimodal learning**, with a primary focus on advancing the controllability, compositionality, and alignment of modern visual generative systems.
 
-I am a first-year Ph.D. student in the Department of Electrical Engineering at the City University of Hong Kong (CityUHK).  
-My recent research focuses on **computer vision** and **image synthesis**, with particular interests in:
+My recent work centers around **diffusion-based and DiT-based architectures**, particularly in scenarios where generation is guided by structured conditions such as multiple reference images or iterative feedback. I am interested in moving beyond stateless generation paradigms toward **experience-aware and structure-preserving generation frameworks**, enabling models to better retain consistency and adapt across complex tasks.
 
-- controllable image synthesis  
-- diffusion and DiT-based generative architectures  
-- multi-reference and structure-aware image editing  
-- representation learning for controllability and consistency  
+My current research directions include:
 
-I am broadly interested in how modern visual generative models learn structured latent representations and how these representations can be adapted to improve reliability, controllability, and generalization in complex image manipulation tasks. My current projects explore **orthogonal-subspace LoRA adaptation**, **multi-reference image editing**, and **experience-driven iterative generation frameworks** that integrate feedback into the synthesis process.
+- controllable and compositional image synthesis  
+- diffusion and transformer-based generative models  
+- multi-reference and cross-image editing  
+- preference learning and alignment for generative models (e.g., DPO, RL-based methods)  
+- representation learning for structure consistency and semantic disentanglement  
+
+I have been involved in several research projects on image generation and editing, including works on **multi-reference image editing**, **region-aware adaptation**, and **copyright-aware generation**. My recent papers have been accepted by venues such as CVPR and AAIML, covering topics ranging from generalized cross-image editing to alignment-aware generation. :contentReference[oaicite:0]{index=0}
+
+More broadly, I am interested in understanding how generative models can develop **persistent knowledge, controllable behaviors, and reduced “AI artifacts”**, especially in long-horizon or user-interactive generation settings.
 
 ### Links
 - **[Google Scholar](<https://scholar.google.com/citations?hl=en&user=-z1EHjoAAAAJ>)**  
 - **[GitHub](<https://github.com/baojudezeze>)** 
-
