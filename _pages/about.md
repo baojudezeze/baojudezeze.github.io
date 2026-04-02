@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  PhD Student (Year 1), <a href='https://www.ee.cityu.edu.hk/'>Department of Electrical Engineering</a>, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. 
+  PhD Student (Year 2), <a href='https://www.ee.cityu.edu.hk/'>Department of Electrical Engineering</a>, <a href='https://www.cityu.edu.hk/'>City University of Hong Kong</a>. 
 
 profile:
   align: right
