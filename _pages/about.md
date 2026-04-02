@@ -40,7 +40,7 @@ My current research directions include:
 - preference learning and alignment for generative models (e.g., DPO, RL-based methods)  
 - representation learning for structure consistency and semantic disentanglement  
 
-I have been involved in several research projects on image generation and editing, including works on **multi-reference image editing**, **region-aware adaptation**, and **copyright-aware generation**. My recent papers have been accepted by venues such as CVPR and AAIML, covering topics ranging from generalized cross-image editing to alignment-aware generation.
+I have been involved in several research projects on image generation and editing, including works on **multi-reference image editing**, **region-aware adaptation**, and **copyright-aware generation**. My recent papers have been accepted by venues such as CVPR and AAIML 2026, covering topics ranging from generalized cross-image editing to alignment-aware generation.
 More broadly, I am interested in understanding how generative models can develop **persistent knowledge, controllable behaviors, and reduced “AI artifacts”**, especially in long-horizon or user-interactive generation settings.
 
 ### Links
